@@ -10,7 +10,7 @@ import java.util.List;
  * @date 2017/7/11.
  */
 public interface BaseService<Record, Example> {
-    @DataSource()
+
     int countByExample(Example example);
 
     int deleteByExample(Example example);

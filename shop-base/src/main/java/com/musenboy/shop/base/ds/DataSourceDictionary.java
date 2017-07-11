@@ -1,7 +1,7 @@
 package com.musenboy.shop.base.ds;
 
 /**
- * 多数据源枚举
+ * 数据源字典
  * 实现分布式数据库
  * 可配置多个数据库
  * @author Sam
@@ -13,5 +13,5 @@ public class DataSourceDictionary {
     public static final String MASTER = "masterDataSource";
 
     //从库
-    public static final String slave = "slaveDataSource";
+    public static final String SLAVE = "slaveDataSource";
 }
