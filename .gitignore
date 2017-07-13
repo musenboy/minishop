@@ -1,3 +1,4 @@
+# 忽略不需要加入git版本控制的文件或文件夹
 .idea
 .classpath
 *.iml
