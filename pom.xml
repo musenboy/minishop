@@ -22,5 +22,6 @@
     <modules>
         <module>shop-base</module>
         <module>shop-common</module>
+        <module>shop-api</module>
     </modules>
 </project>
