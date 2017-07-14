@@ -3,6 +3,7 @@
 
 # 读写分离
 1、http://www.cnblogs.com/yjmyzz/
+2、https://github.com/dearbinge/dubbo-spring-boot-mybatis-redis
 
 
 # vuejs前后端分离
