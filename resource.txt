@@ -1,5 +1,10 @@
 # 资源
 
+
+# 读写分离
+1、http://www.cnblogs.com/yjmyzz/
+
+
 # vuejs前后端分离
 1、http://blog.csdn.net/jimo_lonely/article/details/69664785
 2、https://github.com/superman66/vue-axios-github
@@ -30,9 +35,6 @@
 # rockmq
 1、http://www.jianshu.com/p/453c6e7ff81c
 2、http://www.jianshu.com/p/3afd610a8f7d?from=jiantop.com
-
-# 读写分离
-1、http://www.cnblogs.com/yjmyzz/
 
 # 后端
 Spring Framework | 容器  | [http://projects.spring.io/spring-framework/](http://projects.spring.io/spring-framework/)
