@@ -31,6 +31,9 @@
 1、http://www.jianshu.com/p/453c6e7ff81c
 2、http://www.jianshu.com/p/3afd610a8f7d?from=jiantop.com
 
+# 读写分离
+1、http://www.cnblogs.com/yjmyzz/
+
 # 后端
 Spring Framework | 容器  | [http://projects.spring.io/spring-framework/](http://projects.spring.io/spring-framework/)
 SpringMVC        | MVC框架 | [http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#mvc](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#mvc)
